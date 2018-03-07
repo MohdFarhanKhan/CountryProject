@@ -2,7 +2,7 @@
 //  StoreManager.swift
 //  TableViewStory
 //
-//  Created by Mohd Farhan Khan on 1/27/18.
+//  Created by Mohd Farhan Khan on 3/7/18.
 //  Copyright © 2018 Mohd Farhan Khan. All rights reserved.
 //
 
